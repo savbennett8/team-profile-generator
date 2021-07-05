@@ -2,7 +2,7 @@
   "name": "team-profile-generator",
   "version": "1.0.0",
   "description": "This application generates a webpage to display your software engineering team's basic information, so that you can have quick accesss to their email's and GitHub profiles.",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
