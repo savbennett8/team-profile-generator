@@ -4,18 +4,18 @@
 Module 10 weekly challenge assignment. A Node.js command-line application that generates a webpage to display your software engineering team's basic information, so that you can have quick accesss to their information.
 
 ## Table of Contents
-[Installation](link)
+[Installation](https://github.com/savbennett8/team-profile-generator#installation)
 <br>
-[Usage](link)
+[Usage](https://github.com/savbennett8/team-profile-generator#usage)
 <br>
-[Tests](link)
+[Tests](https://github.com/savbennett8/team-profile-generator#tests)
 <br>
-[Questions](link)
+[Questions](https://github.com/savbennett8/team-profile-generator#questions)
 
 ### Installation
 Clone the code onto your machine and run "npm install" from the root of the directory. Then run "node index.js" to start the question prompts. Once you are done adding members to your team, find the 'index.html' file in the 'dist' directory and open it in your browser. There's your team profile page!
 <br>
-You can also check out [this walk-through video demonstration](link) to see more!
+You can also check out [this walk-through video demonstration](https://drive.google.com/file/d/14Qsdl8-isXtehFXkgR1KopF04bKMDvlm/view?usp=sharing) to see more!
 
 ### Usage
 #### From the command-line, you will be prompted to enter the following information:
