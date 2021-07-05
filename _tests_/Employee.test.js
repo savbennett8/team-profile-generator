@@ -19,9 +19,9 @@ test('get employee id number', () => {
 });
 
 test('get employee email', () => {
-    expect(employee.getEmail()).toEqual(expect.any(String));
+    expect(employee.getEmail()).toEqual(expect.stringContaining('@'));
 });
 
 test('get employee role', () => {
-    expect(employee.getRole()).toEqual(expect.stringContaining(employee.role));
+    expect(employee.getRole()).toEqual(expect.any(String));
 });
