@@ -1,0 +1,29 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "This application generates a webpage to display your software engineering team's basic information, so that you can have quick accesss to their email's and GitHub profiles.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savbennett8/team-profile-generator.git"
+  },
+  "author": "Savannah Bennett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savbennett8/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/savbennett8/team-profile-generator#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "bulma": "^0.9.3",
+    "inquirer": "^8.1.1"
+  }
+}
