@@ -1,4 +1,4 @@
-const { test } = require('@jest/globals');
+const { test, expect } = require('@jest/globals');
 const Manager = require('../lib/Manager');
 const manager = new Manager('Richard', 'Price', 1, 321);
 
