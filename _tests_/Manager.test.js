@@ -27,6 +27,6 @@ test('get manager role', () => {
     expect(manager.getRole()).toEqual(expect.any(String));
 });
 
-test('get manager id', () => {
+test('get manager office number', () => {
     expect(manager.getOfficeNumber()).toEqual(expect.any(String));
 });
